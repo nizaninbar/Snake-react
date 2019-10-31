@@ -1,0 +1,22 @@
+.cell {
+    width: 30px;
+    height: 30px;
+    display: table-cell;
+    border: 0px solid #aaaaaa;
+}
+.cell-food {background-color:chocolate;}
+.cell-snake {background-color: cornflowerblue}
+.cell-row {display: table-row}
+
+.cells-table{
+    display: table;
+    margin: auto;
+    border: 5px solid #aaaaaa;
+    background-color: aliceblue
+}
+
+.title {
+    font-family: cursive;
+    color: aliceblue;
+    font-weight: bold;
+}
